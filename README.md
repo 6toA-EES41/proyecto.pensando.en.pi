@@ -1,1 +1,1 @@
-# proyecto.pensando.en.pi
+# pensando-en-pi
